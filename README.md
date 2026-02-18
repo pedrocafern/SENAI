@@ -6,4 +6,5 @@ Estou desenvolvendo PROJETOS na FACULDADE ROBERTO MANGE - CAMPINAS, SP.
 Banco de Dados;
 Engenharia de Software;
 Linguagem de Programação;
-Desenvolvimento WEB.
+Desenvolvimento WEB;
+Tecnologia/Informação;

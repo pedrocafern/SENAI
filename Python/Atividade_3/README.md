@@ -7,9 +7,9 @@ ser números.
 
 IMC = Peso[kg] ÷ (Altura²[m]) --> Isso é uma função
 
-baixo peso < 18,5 --> If
-18,5 >= peso normal < 25 --> elif
-25 >= pre obesidade < 30 --> elif
-30 >= obesidade grau 1 < 35 --> elif
-35 >= obesidade grau 2 < 40 --> elif
-obesidade mórbida >= 40 --> else:
+Op1 -> baixo peso < 18,5 --> If
+Op2 -> 18,5 >= peso normal < 25 --> elif
+Op3 -> 25 >= pre obesidade < 30 --> elif
+Op4 -> 30 >= obesidade grau 1 < 35 --> elif
+Op5 -> 35 >= obesidade grau 2 < 40 --> elif
+Op6 -> Obesidade mórbida >= 40 --> else:

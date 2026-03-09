@@ -1,7 +1,7 @@
 # SENAI - Análise e Desenvolvimento de Sistema
->> Estou desenvolvendo PROJETOS na FACULDADE ROBERTO MANGE - CAMPINAS, SP.
+> Estou desenvolvendo PROJETOS na FACULDADE ROBERTO MANGE - CAMPINAS, SP.
 
-# Cursos:<br>
+# Cursos:
 
 Banco de Dados; <br>
 Engenharia de Software; <br>
